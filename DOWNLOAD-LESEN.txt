@@ -1,0 +1,7 @@
+JUS Lernraum – Quellcode, Version 20
+Stand: Commit 2722a6dc7f755dca2630921ad1bc666a23668030
+
+Enthalten: Anwendung, Tests, Datenbankmigrationen und Dokumentation.
+Nicht enthalten: echte Schuelerdaten, hochgeladene Materialien, Zugangsdaten, installierte Abhaengigkeiten.
+Dies ist kein Windows-Installationsprogramm. Die Webanwendung benoetigt ihre Serverumgebung mit Datenbank, Dateispeicher und Anmeldung. Details siehe README.md.
+Eine Datensicherung mit Materialien kann in der laufenden Anwendung als Vollsicherung heruntergeladen werden.
